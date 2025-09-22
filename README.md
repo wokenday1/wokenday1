@@ -1,16 +1,17 @@
-## Hi there 👋
+# 我的第一个 Markdown 文档
 
-<!--
-**wokenday1/wokenday1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+这是我学习 Markdown 的开始。
 
-Here are some ideas to get you started:
+## 学习目标
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 掌握基本语法
+- 了解应用场景
+- 能够独立创作文档
+
+## 今天的感受
+
+学习 Markdown 比我想象的**简单**，我对接下来的学习充满*期待*！
+
+---
+
+> 学习是一个持续的过程，每一小步都是进步。
